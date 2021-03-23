@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Feb  7 17:50:02 2021
+Invocation: foremost -i lyrics.txt 
+Output directory: /home/serveruser/Downloads/CTFs/picoGym/mus1c/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: lyrics.txt
+Start: Sun Feb  7 17:50:02 2021
+Length: 772 B (772 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Sun Feb  7 17:50:02 2021
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Sun Feb  7 17:50:02 2021
